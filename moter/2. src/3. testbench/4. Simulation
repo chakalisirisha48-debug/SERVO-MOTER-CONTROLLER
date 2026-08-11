@@ -1,0 +1,19 @@
+--------------------------------
+Servo Motor Controller Test
+--------------------------------
+
+Testing Servo Position = 0 degrees
+Angle = 0, PWM HIGH Time = 1000.000 us
+Angle = 0, PWM HIGH Time = 1000.000 us
+
+Testing Servo Position = 90 degrees
+Angle = 1, PWM HIGH Time = 1500.000 us
+Angle = 1, PWM HIGH Time = 1500.000 us
+
+Testing Servo Position = 180 degrees
+Angle = 2, PWM HIGH Time = 2000.000 us
+Angle = 2, PWM HIGH Time = 2000.000 us
+
+--------------------------------
+Servo Controller Simulation Complete
+--------------------------------
